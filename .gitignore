@@ -1,0 +1,8 @@
+# llm chat history
+chat_history.txt
+
+# wget download status
+.wget*.sh.status
+
+# data files
+*.nc
