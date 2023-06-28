@@ -1,0 +1,8 @@
+archytas
+cartwright
+xarray
+cftime
+pandas
+matplotlib
+easyrepl
+rich
